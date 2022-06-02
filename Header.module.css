@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+.header{
+    background-color: #111;
+    padding: 15px;
+}
+.text{
+    color: #fff;
+    text-align: center;
+}

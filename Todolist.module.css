@@ -1,0 +1,101 @@
+.main{
+    height: 140px;
+    width: 100%;
+    background-color: rgb(184, 172, 172);
+    /* padding-top: 10px; */
+}
+.listJob{
+    background-color: rgb(246, 241, 241);
+    height: 110px;
+    width: 343px;
+    margin-left: 300px;
+    padding-top: 15px;
+}
+.job1{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: gainsboro;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 4px;
+    
+}
+
+.input{
+    padding-right: 30px;
+}
+.php{
+    padding-right: 50px;
+}
+.pencil{
+    padding-left: 55px;
+}
+.trash{
+    padding-left: 20px;
+}
+.job2{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: gainsboro;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 4px;
+}
+.input1{
+    padding-right: 18px;
+}
+.react{
+    padding-right: 50px;
+}
+.pencil1{
+    padding-left: 55px;
+}
+.trash1{
+    padding-left: 20px;
+}
+.job3{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: gainsboro;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 4px;
+}
+
+.input2{
+    padding-right: 25px;
+}
+.java{
+    padding-right: 50px;
+}
+.pencil2{
+    padding-left: 55px;
+}
+.trash2{
+    padding-left: 20px;
+}
+.job4{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: gainsboro;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 4px;
+}
+
+.input3{
+    padding-right: 20px;
+}
+.net{
+    padding-right: 50px;
+}
+.pencil3{
+    padding-left: 55px;
+}
+.trash3{
+    padding-left: 20px;
+}
